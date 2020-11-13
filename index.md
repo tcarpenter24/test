@@ -1,5 +1,5 @@
 ---
-tite: Trenton Carpenter Website
+title: Trenton Carpenter Website
 ---
 
 These links are to work I've done on various topics.
